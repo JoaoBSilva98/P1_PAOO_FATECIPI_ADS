@@ -1,3 +1,3 @@
 Amanda  RA = 2040482022027
-Gabriel Alves RA = 
+Gabriel Alves RA = 2040481922034
 João Barbosa RA = 2040482222004 
